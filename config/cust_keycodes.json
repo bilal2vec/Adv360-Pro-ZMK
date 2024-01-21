@@ -1,1 +1,19 @@
-[]
+[
+	{
+		"names": [
+			"LCTL(KC_UP)"
+		],
+		"description": "LCTL(KC_UP)",
+		"clarify": false,
+		"documentation": "",
+		"os": {
+			"windows": true,
+			"linux": true,
+			"android": true,
+			"macos": true,
+			"ios": true
+		},
+		"footnotes": {},
+		"type": "UD"
+	}
+]
